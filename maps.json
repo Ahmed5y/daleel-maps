@@ -1,0 +1,294 @@
+{
+ "version": 2,
+ "packs": [
+  {
+   "id": "erbil",
+   "ar": "أربيل",
+   "en": "Erbil",
+   "fa": "اربیل",
+   "bounds": [
+    43.3099,
+    35.4485,
+    45.0718,
+    37.2844
+   ],
+   "v": 2,
+   "url": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-erbil.pmtiles",
+   "bytes": 29107930,
+   "roads": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-erbil.roads",
+   "roadsBytes": 5658480
+  },
+  {
+   "id": "anbar",
+   "ar": "الأنبار",
+   "en": "Anbar",
+   "fa": "الانبار",
+   "bounds": [
+    38.7949,
+    30.5105,
+    44.2605,
+    35.1362
+   ],
+   "v": 2,
+   "url": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-anbar.pmtiles",
+   "bytes": 21595612,
+   "roads": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-anbar.roads",
+   "roadsBytes": 2521748
+  },
+  {
+   "id": "basra",
+   "ar": "البصرة",
+   "en": "Basra",
+   "fa": "بصره",
+   "bounds": [
+    46.5711,
+    29.0636,
+    48.6072,
+    31.3004
+   ],
+   "v": 2,
+   "url": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-basra.pmtiles",
+   "bytes": 11075626,
+   "roads": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-basra.roads",
+   "roadsBytes": 2437924
+  },
+  {
+   "id": "sulaymaniyah",
+   "ar": "السليمانية",
+   "en": "Sulaymaniyah",
+   "fa": "سلیمانیه",
+   "bounds": [
+    44.4901,
+    34.6339,
+    46.3408,
+    36.5347
+   ],
+   "v": 2,
+   "url": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-sulaymaniyah.pmtiles",
+   "bytes": 27429802,
+   "roads": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-sulaymaniyah.roads",
+   "roadsBytes": 6408301
+  },
+  {
+   "id": "qadisiyah",
+   "ar": "القادسية",
+   "en": "Qadisiyah",
+   "fa": "قادسیه",
+   "bounds": [
+    44.4431,
+    31.288,
+    45.7838,
+    32.4559
+   ],
+   "v": 2,
+   "url": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-qadisiyah.pmtiles",
+   "bytes": 4602891,
+   "roads": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-qadisiyah.roads",
+   "roadsBytes": 705223
+  },
+  {
+   "id": "muthanna",
+   "ar": "المثنى",
+   "en": "Muthanna",
+   "fa": "مثنی",
+   "bounds": [
+    43.8136,
+    28.9991,
+    46.7464,
+    31.7744
+   ],
+   "v": 2,
+   "url": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-muthanna.pmtiles",
+   "bytes": 7611319,
+   "roads": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-muthanna.roads",
+   "roadsBytes": 674903
+  },
+  {
+   "id": "najaf",
+   "ar": "النجف",
+   "en": "Najaf",
+   "fa": "نجف",
+   "bounds": [
+    42.9358,
+    29.8501,
+    44.7797,
+    32.3588
+   ],
+   "v": 2,
+   "url": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-najaf.pmtiles",
+   "bytes": 6229574,
+   "roads": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-najaf.roads",
+   "roadsBytes": 1223041
+  },
+  {
+   "id": "babylon",
+   "ar": "بابل",
+   "en": "Babylon",
+   "fa": "بابل",
+   "bounds": [
+    43.9073,
+    32.1321,
+    45.158,
+    33.2932
+   ],
+   "v": 2,
+   "url": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-babylon.pmtiles",
+   "bytes": 12181521,
+   "roads": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-babylon.roads",
+   "roadsBytes": 3304924
+  },
+  {
+   "id": "baghdad",
+   "ar": "بغداد",
+   "en": "Baghdad",
+   "fa": "بغداد",
+   "bounds": [
+    44.1252,
+    33.2302,
+    44.5986,
+    33.4952
+   ],
+   "v": 2,
+   "url": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-baghdad.pmtiles",
+   "bytes": 8877729,
+   "roads": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-baghdad.roads",
+   "roadsBytes": 3047248
+  },
+  {
+   "id": "duhok",
+   "ar": "دهوك",
+   "en": "Duhok",
+   "fa": "دهوک",
+   "bounds": [
+    42.3699,
+    36.6749,
+    44.0923,
+    37.3336
+   ],
+   "v": 2,
+   "url": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-duhok.pmtiles",
+   "bytes": 15798797,
+   "roads": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-duhok.roads",
+   "roadsBytes": 2956687
+  },
+  {
+   "id": "diyala",
+   "ar": "ديالى",
+   "en": "Diyala",
+   "fa": "دیاله",
+   "bounds": [
+    44.3004,
+    33.0578,
+    46.0193,
+    35.1748
+   ],
+   "v": 2,
+   "url": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-diyala.pmtiles",
+   "bytes": 18564957,
+   "roads": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-diyala.roads",
+   "roadsBytes": 3361614
+  },
+  {
+   "id": "dhiqar",
+   "ar": "ذي قار",
+   "en": "Dhi Qar",
+   "fa": "ذی قار",
+   "bounds": [
+    45.6356,
+    30.5114,
+    47.138,
+    32.0149
+   ],
+   "v": 2,
+   "url": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-dhiqar.pmtiles",
+   "bytes": 7767914,
+   "roads": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-dhiqar.roads",
+   "roadsBytes": 1302814
+  },
+  {
+   "id": "saladin",
+   "ar": "صلاح الدين",
+   "en": "Saladin",
+   "fa": "صلاح‌الدین",
+   "bounds": [
+    42.4197,
+    33.4333,
+    44.9368,
+    35.7383
+   ],
+   "v": 2,
+   "url": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-saladin.pmtiles",
+   "bytes": 14086688,
+   "roads": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-saladin.roads",
+   "roadsBytes": 2130445
+  },
+  {
+   "id": "kirkuk",
+   "ar": "كركوك",
+   "en": "Kirkuk",
+   "fa": "کرکوک",
+   "bounds": [
+    43.2249,
+    34.7438,
+    44.8265,
+    35.9077
+   ],
+   "v": 2,
+   "url": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-kirkuk.pmtiles",
+   "bytes": 12660523,
+   "roads": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-kirkuk.roads",
+   "roadsBytes": 2416427
+  },
+  {
+   "id": "maysan",
+   "ar": "ميسان",
+   "en": "Maysan",
+   "fa": "میسان",
+   "bounds": [
+    46.3162,
+    31.1383,
+    47.8642,
+    32.9167
+   ],
+   "v": 2,
+   "url": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-maysan.pmtiles",
+   "bytes": 6091717,
+   "roads": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-maysan.roads",
+   "roadsBytes": 721274
+  },
+  {
+   "id": "nineveh",
+   "ar": "نينوى",
+   "en": "Nineveh",
+   "fa": "نینوا",
+   "bounds": [
+    41.2151,
+    34.9229,
+    44.3026,
+    37.0704
+   ],
+   "v": 2,
+   "url": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-nineveh.pmtiles",
+   "bytes": 25157380,
+   "roads": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-nineveh.roads",
+   "roadsBytes": 5463437
+  },
+  {
+   "id": "wasit",
+   "ar": "واسط",
+   "en": "Wasit",
+   "fa": "واسط",
+   "bounds": [
+    44.4928,
+    31.9932,
+    46.5832,
+    33.5388
+   ],
+   "v": 2,
+   "url": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-wasit.pmtiles",
+   "bytes": 6557728,
+   "roads": "https://github.com/Ahmed5y/daleel-maps/releases/download/maps-v2/gov-wasit.roads",
+   "roadsBytes": 961251
+  }
+ ]
+}
